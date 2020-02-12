@@ -42,11 +42,12 @@
   font-family: brandon-grotesque, sans-serif;
   font-weight: 500;
   align-content: space-evenly; 
-  padding-left: 3.7vw;
+  padding-left: 45px;
   margin-top: -15vh;
   font-style: normal;
   height: 50vh;
-  font-size: 150px;
+  width: auto;
+  font-size: 160px;
   background: -webkit-linear-gradient(0deg, rgba(33,44,97,1) 17%, rgba(65,197,226,1) 50%, rgba(137,185,101,1) 84%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
